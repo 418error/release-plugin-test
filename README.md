@@ -7,3 +7,5 @@ Making a change
 Making another change
 
 Adding some more text
+
+adding a new file and dir
